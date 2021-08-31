@@ -1,5 +1,5 @@
 # Ceaser-Cipher
-<img src='Caesar_cipher_left_shift_of_3.svg.png'>
+<img src='CC.png' width=1000 heigth=600>
 
 # Ceaser Cipher is a substitution cipher in which each letter is replaced by a letter some fixed number of positions down the alphabet.
 # Example: 
