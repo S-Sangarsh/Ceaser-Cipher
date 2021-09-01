@@ -1,7 +1,7 @@
 # Ceaser-Cipher
 <img src='CC.png' width=1000 heigth=600>
 
-# Ceaser Cipher is a substitution cipher in which each letter is replaced by a letter some fixed number of positions down the alphabet.
+# Ceaser Cipher is a substitution cipher in which each letter is replaced by a letter with help of some fixed number of positions down the alphabet.
 # Example: 
     For the word : Game
     Key : 2  # number of place the words has to be moved
